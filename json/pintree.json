@@ -432,5 +432,931 @@
         ]
       }
     ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1712940276396,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1720447962344,
+        "title": "跨境",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1720447964322,
+            "title": "Payoneer(九)设置 – 9.4 “验证中心”(Payoneer账户验证): 提交(1)”身份信息“、(2)”企业概况”、(3)”收款账户问卷调查“&(4)“地址”验证 – Topworker跨境客 X Payoneer用户指南(2024版)",
+            "icon": "https://logo.clearbit.com/pka.topworker.cn",
+            "url": "https://pka.topworker.cn/post/144.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1720701142939,
+            "title": "AMZ123亚马逊导航-跨境电商出海门户",
+            "icon": "https://logo.clearbit.com/www.amz123.com",
+            "url": "https://www.amz123.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720701330938,
+            "title": "TT123卖家导航-TikTok电商门户|海外短视频运营导航",
+            "icon": "https://logo.clearbit.com/www.tt123.com",
+            "url": "https://www.tt123.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720701601123,
+            "title": "AMZ123亚马逊运营工具箱（超级好用！）",
+            "icon": "https://logo.clearbit.com/www.amz123.com",
+            "url": "https://www.amz123.com/minitools#info"
+          },
+          {
+            "type": "link",
+            "addDate": 1720702519651,
+            "title": "Quora",
+            "icon": "https://logo.clearbit.com/www.quora.com",
+            "url": "https://www.quora.com/?prevent_redirect=1"
+          },
+          {
+            "type": "link",
+            "addDate": 1720702603979,
+            "title": "Spaces",
+            "icon": "https://logo.clearbit.com/www.quora.com",
+            "url": "https://www.quora.com/spaces"
+          },
+          {
+            "type": "link",
+            "addDate": 1720794263114,
+            "title": "SMS-Activate是在线接受短信的虚拟号码服务",
+            "icon": "https://logo.clearbit.com/sms-activate.io",
+            "url": "https://sms-activate.io/cn/paysuccess?transactionNo=378228336645068009&status=success&amount=2.00&time=20240712222409&reference=7460198&note=7460198"
+          },
+          {
+            "type": "link",
+            "addDate": 1720847559869,
+            "title": "红海首页｜红海pro官网｜红海梯子官网",
+            "icon": "https://logo.clearbit.com/www.lmjkj.com",
+            "url": "https://www.lmjkj.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720849970970,
+            "title": "SMS-Activate是在线接受短信的虚拟号码服务",
+            "icon": "https://logo.clearbit.com/sms-activate.io",
+            "url": "https://sms-activate.io/cn/buy2"
+          },
+          {
+            "type": "link",
+            "addDate": 1720949752511,
+            "title": "Similarweb 数字情报：解锁您的数字增长",
+            "icon": "https://logo.clearbit.com/www.similarweb.com",
+            "url": "https://www.similarweb.com/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721001131314,
+            "title": "全球所有銀行的SWIFT碼&BIC碼",
+            "icon": "https://logo.clearbit.com/www.theswiftcodes.com",
+            "url": "https://www.theswiftcodes.com/zh-hk/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721217704048,
+            "title": "全球银行SWIFT Codes& BIC Codes专业数据库",
+            "icon": "https://logo.clearbit.com/www.myswiftcodes.com",
+            "url": "https://www.myswiftcodes.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1720849790784,
+        "title": "学习",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1720849792661,
+            "title": "CS50's Web Programming with Python and JavaScript | Harvard University",
+            "icon": "https://logo.clearbit.com/pll.harvard.edu",
+            "url": "https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1720850089942,
+        "title": "AI",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1720850091942,
+            "title": "GitHub - shibing624/ChatPilot: ChatPilot: 实现AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/shibing624/ChatPilot"
+          },
+          {
+            "type": "link",
+            "addDate": 1720850343667,
+            "title": "GitHub - xwy-morax/FreeClaude35Assistant",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/xwy-morax/FreeClaude35Assistant"
+          },
+          {
+            "type": "link",
+            "addDate": 1720874773848,
+            "title": "Twitter Video Downloader - Download twitter videos & GIF Online",
+            "icon": "https://logo.clearbit.com/twittervideodownloader.com",
+            "url": "https://twittervideodownloader.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720875109412,
+            "title": "首页 | Userscript.Zone",
+            "icon": "https://logo.clearbit.com/www.userscript.zone",
+            "url": "https://www.userscript.zone/?utm_source=tm.net&utm_medium=index"
+          },
+          {
+            "type": "link",
+            "addDate": 1720930781543,
+            "title": "硬核指南 - 够高清才是真硬核！",
+            "icon": "https://logo.clearbit.com/yingheapp.com",
+            "url": "https://yingheapp.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720930853228,
+            "title": "集知盒子 - 知识、娱乐、资源库",
+            "icon": "https://logo.clearbit.com/www.jizhihezi.com",
+            "url": "https://www.jizhihezi.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721047643338,
+            "title": "Bot Store - Coze",
+            "icon": "https://logo.clearbit.com/www.coze.com",
+            "url": "https://www.coze.com/store/bot"
+          },
+          {
+            "type": "link",
+            "addDate": 1721487185420,
+            "title": "海螺AI—MiniMax 旗下生产力产品，你的AI伙伴",
+            "icon": "https://logo.clearbit.com/hailuoai.com",
+            "url": "http://hailuoai.com/?type=chat&chatID=271082115353227268"
+          },
+          {
+            "type": "link",
+            "addDate": 1721540860323,
+            "title": "小报童",
+            "icon": "https://logo.clearbit.com/xiaobot.net",
+            "url": "https://xiaobot.net/home.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1721543928179,
+            "title": "Product Hunt – The best new products in tech.",
+            "icon": "https://logo.clearbit.com/www.producthunt.com",
+            "url": "https://www.producthunt.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721655588213,
+            "title": "ChatGPT Web Midjourney Proxy",
+            "icon": "https://logo.clearbit.com/vercel.ddaiai.com",
+            "url": "https://vercel.ddaiai.com/#/chat/1002"
+          },
+          {
+            "type": "link",
+            "addDate": 1721655730425,
+            "title": "首页 - 智造喵",
+            "icon": "https://logo.clearbit.com/chat.aimakex.com",
+            "url": "https://chat.aimakex.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721836840066,
+            "title": "OpenRouter",
+            "icon": "https://logo.clearbit.com/openrouter.ai",
+            "url": "https://openrouter.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721837044957,
+            "title": "首页 | AIFUNS",
+            "icon": "https://logo.clearbit.com/aifuns.xyz",
+            "url": "https://aifuns.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721837349134,
+            "title": "MyShell - Build, Share, and Own AI Chat.",
+            "icon": "https://logo.clearbit.com/app.myshell.ai",
+            "url": "https://app.myshell.ai/zh/explore?invite=1&inviteCode=386e8e"
+          },
+          {
+            "type": "link",
+            "addDate": 1721837467887,
+            "title": "Vite App",
+            "icon": "https://logo.clearbit.com/slogan.ishell.online",
+            "url": "https://slogan.ishell.online/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721837837350,
+            "title": "抖音视频、小红书、快手视频、B站视频无水印下载-vtool解析网",
+            "icon": "https://logo.clearbit.com/vtool.pro",
+            "url": "https://vtool.pro/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721838200809,
+            "title": "手写体文稿生成器-手写模拟器-vtool工具箱",
+            "icon": "https://logo.clearbit.com/vtool.pro",
+            "url": "https://vtool.pro/handwriting/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722091572048,
+            "title": "FoloToy - Toys",
+            "icon": "https://logo.clearbit.com/webapp.folotoy.cn",
+            "url": "https://webapp.folotoy.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722174618012,
+            "title": "Reader API",
+            "icon": "https://logo.clearbit.com/jina.ai",
+            "url": "https://jina.ai/reader/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722179937505,
+            "title": "GitHub - mshumer/gpt-prompt-engineer",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mshumer/gpt-prompt-engineer"
+          },
+          {
+            "type": "link",
+            "addDate": 1722181094191,
+            "title": "PH Copilot",
+            "icon": "https://logo.clearbit.com/phcopilot.ai",
+            "url": "https://phcopilot.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722262820637,
+            "title": "bilibiliDown-极简纯净B站视频解析提取工具 - A姐分享",
+            "icon": "https://logo.clearbit.com/www.ahhhhfs.com",
+            "url": "https://www.ahhhhfs.com/44176/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722262826336,
+            "title": "XHS Spider-小红书数据采集工具（批量下载、视频提取、图片去水印） - A姐分享",
+            "icon": "https://logo.clearbit.com/www.ahhhhfs.com",
+            "url": "https://www.ahhhhfs.com/43399/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722263128379,
+            "title": "ahhhhfs - A姐分享",
+            "icon": "https://logo.clearbit.com/www.ahhhhfs.com",
+            "url": "https://www.ahhhhfs.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721430548956,
+        "title": "git",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1721430518601,
+            "title": "GitHub - pcottle/learnGitBranching: An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/pcottle/learnGitBranching"
+          },
+          {
+            "type": "link",
+            "addDate": 1721459765228,
+            "title": "合并与变基 |Atlassian Git 教程 --- Merging vs. Rebasing | Atlassian Git Tutorial",
+            "icon": "https://logo.clearbit.com/www.atlassian.com",
+            "url": "https://www.atlassian.com/git/tutorials/merging-vs-rebasing"
+          },
+          {
+            "type": "link",
+            "addDate": 1721459941001,
+            "title": "合并与变基 | Atlassian Git Tutorial",
+            "icon": "https://logo.clearbit.com/www.atlassian.com",
+            "url": "https://www.atlassian.com/zh/git/tutorials/merging-vs-rebasing"
+          },
+          {
+            "type": "link",
+            "addDate": 1722077969666,
+            "title": "architecture.of.internet-product/H.团队与产品/《微信背后的产品观》－张小龙(139页手抄版).pdf at master · davideuler/architecture.of.internet-product · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/davideuler/architecture.of.internet-product/blob/master/H.%E5%9B%A2%E9%98%9F%E4%B8%8E%E4%BA%A7%E5%93%81/%E3%80%8A%E5%BE%AE%E4%BF%A1%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%A7%E5%93%81%E8%A7%82%E3%80%8B%EF%BC%8D%E5%BC%A0%E5%B0%8F%E9%BE%99(139%E9%A1%B5%E6%89%8B%E6%8A%84%E7%89%88).pdf"
+          },
+          {
+            "type": "link",
+            "addDate": 1722083062852,
+            "title": "Stripe Blog: Online Payment Solutions Blog",
+            "icon": "https://logo.clearbit.com/stripe.com",
+            "url": "https://stripe.com/blog"
+          },
+          {
+            "type": "link",
+            "addDate": 1722086242772,
+            "title": "GitHub - brandur/redis-cell：一个 Redis 模块，通过单个命令在 Redis 中提供速率限制。 --- GitHub - brandur/redis-cell: A Redis module that provides rate limiting in Redis as a single command.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/brandur/redis-cell/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722092517532,
+            "title": "Build optimized websites quickly, focus on your content | Docusaurus",
+            "icon": "https://logo.clearbit.com/docusaurus.io",
+            "url": "https://docusaurus.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722092523501,
+            "title": "folotoy-doc/README.zh_CN.md at main · FoloToy/folotoy-doc · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/FoloToy/folotoy-doc/blob/main/README.zh_CN.md"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721430548958,
+        "title": "maven",
+        "children": []
+      },
+      {
+        "type": "folder",
+        "addDate": 1721430548958,
+        "title": "kibana",
+        "children": []
+      },
+      {
+        "type": "folder",
+        "addDate": 1721430548958,
+        "title": "prometheus",
+        "children": []
+      },
+      {
+        "type": "folder",
+        "addDate": 1722143385930,
+        "title": "博客",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1722141008319,
+            "title": "Tutorial Intro | My Site",
+            "icon": "https://logo.clearbit.com/tutorial.docusaurus.io",
+            "url": "https://tutorial.docusaurus.io/docs/intro"
+          },
+          {
+            "type": "link",
+            "addDate": 1722147066416,
+            "title": "npmmirror 镜像站",
+            "icon": "https://logo.clearbit.com/npmmirror.com",
+            "url": "https://npmmirror.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722148099533,
+            "title": "sysxplore",
+            "icon": "https://logo.clearbit.com/sysxplore.com",
+            "url": "https://sysxplore.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722165861048,
+            "title": "GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.",
+            "icon": "https://logo.clearbit.com/pages.github.com",
+            "url": "https://pages.github.com/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1712940276396,
+    "title": "其他书签",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1712941925759,
+        "title": "如何使用PowerShell在Windows上安装Chocolatey - INFOXIAO - Win11",
+        "icon": "https://logo.clearbit.com/www.infoxiao.com",
+        "url": "https://www.infoxiao.com/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8powershell%E5%9C%A8windows%E4%B8%8A%E5%AE%89%E8%A3%85chocolatey/"
+      },
+      {
+        "type": "link",
+        "addDate": 1713093816729,
+        "title": "Discover | Mode",
+        "icon": "https://logo.clearbit.com/app.mode.com",
+        "url": "https://app.mode.com/home/heiying_sql/discover"
+      },
+      {
+        "type": "link",
+        "addDate": 1713190818329,
+        "title": "GeeksforGeeks | A computer science portal for geeks",
+        "icon": "https://logo.clearbit.com/www.geeksforgeeks.org",
+        "url": "https://www.geeksforgeeks.org/"
+      },
+      {
+        "type": "link",
+        "addDate": 1713191972508,
+        "title": "GitHub - 512team/dhorse: DHorse是一个轻量级、简单易用的云应用管理平台，具有多云和多环境管理、应用管理和部署、服务治理等功能，使用该平台不需要了解容器和k8s的概念。",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/512team/dhorse"
+      },
+      {
+        "type": "link",
+        "addDate": 1713193167050,
+        "title": "Index of /",
+        "icon": "https://logo.clearbit.com/vault.centos.org",
+        "url": "https://vault.centos.org/"
+      },
+      {
+        "type": "link",
+        "addDate": 1713279983000,
+        "title": "GitHub - ollama/ollama: Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/ollama/ollama"
+      },
+      {
+        "type": "link",
+        "addDate": 1713280779845,
+        "title": "GitHub - open-webui/open-webui：用户LLMs友好的 WebUI（以前称为 Ollama WebUI） --- GitHub - open-webui/open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/open-webui/open-webui"
+      },
+      {
+        "type": "link",
+        "addDate": 1713280826046,
+        "title": "Open WebUI",
+        "icon": "https://logo.clearbit.com/openwebui.com",
+        "url": "https://openwebui.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1713281281677,
+        "title": "Installing the NVIDIA Container Toolkit — NVIDIA Container Toolkit 1.14.5 documentation",
+        "icon": "https://logo.clearbit.com/docs.nvidia.com",
+        "url": "https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installation"
+      },
+      {
+        "type": "link",
+        "addDate": 1713617797260,
+        "title": "GitHub - Mintplex-Labs/anything-llm: The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/Mintplex-Labs/anything-llm"
+      },
+      {
+        "type": "link",
+        "addDate": 1713618231248,
+        "title": "AnythingLLM | The ultimate AI business intelligence tool",
+        "icon": "https://logo.clearbit.com/useanything.com",
+        "url": "https://useanything.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1713618279400,
+        "title": "文档 | FastGPT",
+        "icon": "https://logo.clearbit.com/doc.fastai.site",
+        "url": "https://doc.fastai.site/docs/"
+      },
+      {
+        "type": "link",
+        "addDate": 1713619320225,
+        "title": "LLM Selection | AnythingLLM by Mintplex Labs",
+        "icon": "https://logo.clearbit.com/docs.useanything.com",
+        "url": "https://docs.useanything.com/feature-overview/llm-selection"
+      },
+      {
+        "type": "link",
+        "addDate": 1713620571538,
+        "title": "anything-llm/docker/HOW_TO_USE_DOCKER.md at master · Mintplex-Labs/anything-llm · GitHub",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/Mintplex-Labs/anything-llm/blob/master/docker/HOW_TO_USE_DOCKER.md#recommend-way-to-run-dockerized-anythingllm"
+      },
+      {
+        "type": "link",
+        "addDate": 1713621800972,
+        "title": "AMD 驱动程序与支持 | AMD",
+        "icon": "https://logo.clearbit.com/www.amd.com",
+        "url": "https://www.amd.com/zh-hans/support"
+      },
+      {
+        "type": "link",
+        "addDate": 1713622704821,
+        "title": "注册 | 可莉",
+        "icon": "https://logo.clearbit.com/xn--jprs12i.com",
+        "url": "https://xn--jprs12i.com/#/register?code=5WWbUXlh"
+      },
+      {
+        "type": "link",
+        "addDate": 1713624461832,
+        "title": "购买订阅 | 可莉",
+        "icon": "https://logo.clearbit.com/xn--jprs12i.com",
+        "url": "https://xn--jprs12i.com/#/plan"
+      },
+      {
+        "type": "link",
+        "addDate": 1713625761045,
+        "title": "在 Windows 上使用 Clash For Windows | Clash for Windows 代理工具使用说明",
+        "icon": "https://logo.clearbit.com/docs.gtk.pw",
+        "url": "https://docs.gtk.pw/contents/windows/clash.html#%E6%B7%BB%E5%8A%A0-clash-%E9%85%8D%E7%BD%AE%E8%AE%A2%E9%98%85"
+      },
+      {
+        "type": "link",
+        "addDate": 1713626978256,
+        "title": "仪表盘 | 可莉",
+        "icon": "https://logo.clearbit.com/xn--jprs12i.com",
+        "url": "https://xn--jprs12i.com/#/dashboard"
+      },
+      {
+        "type": "link",
+        "addDate": 1713628625533,
+        "title": "localhost:61732/779e965a8eaa0ec15274d64b3dfb7ee7/?utm_campaign=proupgrade&utm_content=&utm_medium=tray&utm_source=windows#/plans",
+        "icon": "https://logo.clearbit.com/localhost",
+        "url": "http://localhost:61732/779e965a8eaa0ec15274d64b3dfb7ee7/?utm_campaign=proupgrade&utm_content=&utm_medium=tray&utm_source=windows#/plans"
+      },
+      {
+        "type": "link",
+        "addDate": 1713629426092,
+        "title": "使用Tailscale远程访问局域网 - 知乎",
+        "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+        "url": "https://zhuanlan.zhihu.com/p/467997929"
+      },
+      {
+        "type": "link",
+        "addDate": 1713630490219,
+        "title": "modelscope/README_zh.md at master · modelscope/modelscope",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/modelscope/modelscope/blob/master/README_zh.md"
+      },
+      {
+        "type": "link",
+        "addDate": 1713630543031,
+        "title": "",
+        "icon": "https://logo.clearbit.com/www.modelscope.cn",
+        "url": "https://www.modelscope.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1713630559770,
+        "title": "首页 · 魔搭社区",
+        "icon": "https://logo.clearbit.com/www.modelscope.cn",
+        "url": "https://www.modelscope.cn/home"
+      },
+      {
+        "type": "link",
+        "addDate": 1713630603935,
+        "title": "模型库首页 · 魔搭社区",
+        "icon": "https://logo.clearbit.com/www.modelscope.cn",
+        "url": "https://www.modelscope.cn/models"
+      },
+      {
+        "type": "link",
+        "addDate": 1713630856955,
+        "title": "Hugging Face – The AI community building the future.",
+        "icon": "https://logo.clearbit.com/huggingface.co",
+        "url": "https://huggingface.co/"
+      },
+      {
+        "type": "link",
+        "addDate": 1713632099766,
+        "title": "",
+        "icon": "https://logo.clearbit.com/lmstudio.ai",
+        "url": "https://lmstudio.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1713632722789,
+        "title": "netease-youdao/QAnything: Question and Answer based on Anything.",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/netease-youdao/QAnything"
+      },
+      {
+        "type": "link",
+        "addDate": 1713632878176,
+        "title": "QAnything/README_zh.md at master · netease-youdao/QAnything",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/netease-youdao/QAnything/blob/master/README_zh.md"
+      },
+      {
+        "type": "link",
+        "addDate": 1713800377926,
+        "title": "Llama 3开源！魔搭社区手把手带你推理，部署，微调和评估-阿里云开发者社区",
+        "icon": "https://logo.clearbit.com/developer.aliyun.com",
+        "url": "https://developer.aliyun.com/article/1489116?spm=a2c6h.17735062.detail.17.185c1406lXv0Mm"
+      },
+      {
+        "type": "link",
+        "addDate": 1713800489740,
+        "title": "ModelScope模型即服务-文章-阿里云开发者社区",
+        "icon": "https://logo.clearbit.com/developer.aliyun.com",
+        "url": "https://developer.aliyun.com/modelscope/article?spm=a2c6h.17735062.detail.7.6c0242f199jhe5"
+      },
+      {
+        "type": "folder",
+        "addDate": 1714754869338,
+        "title": "新建文件夹",
+        "children": []
+      },
+      {
+        "type": "folder",
+        "addDate": 1714754869338,
+        "title": "单元测试",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1714754844880,
+            "title": "带有IntelliJ IDEA的JaCoCo - GeeksforGeeks --- JaCoCo with IntelliJ IDEA - GeeksforGeeks",
+            "icon": "https://logo.clearbit.com/www.geeksforgeeks.org",
+            "url": "https://www.geeksforgeeks.org/jacoco-with-intellij-idea/"
+          },
+          {
+            "type": "link",
+            "addDate": 1714801165491,
+            "title": "Code Coverage with SonarQube and JaCoCo | Baeldung",
+            "icon": "https://logo.clearbit.com/www.baeldung.com",
+            "url": "https://www.baeldung.com/sonarqube-jacoco-code-coverage"
+          },
+          {
+            "type": "folder",
+            "addDate": 1714809197609,
+            "title": "新建文件夹",
+            "children": []
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1714809197609,
+        "title": "文章",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1714809175920,
+            "title": "arXiv.org e-Print archive",
+            "icon": "https://logo.clearbit.com/arxiv.org",
+            "url": "https://arxiv.org/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1714843508983,
+        "title": "linux磁盘扩容",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1714843480420,
+            "title": "VMware CentOS LVM磁盘扩容 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/191411113"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1714845869209,
+        "title": "Stable Diffusion API Docs | Stable Diffusion API Documentation",
+        "icon": "https://logo.clearbit.com/stablediffusionapi.com",
+        "url": "https://stablediffusionapi.com/docs/"
+      },
+      {
+        "type": "link",
+        "addDate": 1714848866628,
+        "title": "missuo/FreeGPT35: Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/missuo/FreeGPT35"
+      },
+      {
+        "type": "link",
+        "addDate": 1714850107399,
+        "title": "AMD驱动超时解决方法整理 - 哔哩哔哩",
+        "icon": "https://logo.clearbit.com/www.bilibili.com",
+        "url": "https://www.bilibili.com/read/cv27577157/"
+      },
+      {
+        "type": "link",
+        "addDate": 1715009876558,
+        "title": "abi/screenshot-to-code：放入屏幕截图并将其转换为干净的代码 （HTML/Tailwind/React/Vue） --- abi/screenshot-to-code: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/abi/screenshot-to-code"
+      },
+      {
+        "type": "link",
+        "addDate": 1715009885025,
+        "title": "1Panel-dev/MaxKB: 💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/1Panel-dev/MaxKB"
+      },
+      {
+        "type": "link",
+        "addDate": 1715013992715,
+        "title": "新标签页",
+        "icon": "https://logo.clearbit.com/newtab",
+        "url": "chrome://newtab/"
+      },
+      {
+        "type": "link",
+        "addDate": 1715013998639,
+        "title": "Models - Hugging Face",
+        "icon": "https://logo.clearbit.com/huggingface.co",
+        "url": "https://huggingface.co/models"
+      },
+      {
+        "type": "link",
+        "addDate": 1715351701370,
+        "title": "New API",
+        "icon": "https://logo.clearbit.com/api.xty.app",
+        "url": "https://api.xty.app/"
+      },
+      {
+        "type": "link",
+        "addDate": 1715351754500,
+        "title": "ApiKey使用教程",
+        "icon": "https://logo.clearbit.com/flowus.cn",
+        "url": "https://flowus.cn/share/3458a17b-9991-4a2d-86a0-5da6e7596971"
+      },
+      {
+        "type": "link",
+        "addDate": 1715614975143,
+        "title": "BeeBee AI - AI Earnings call analysis tool",
+        "icon": "https://logo.clearbit.com/www.beebee.ai",
+        "url": "https://www.beebee.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1715616090917,
+        "title": "Home - FireCrawl",
+        "icon": "https://logo.clearbit.com/www.firecrawl.dev",
+        "url": "https://www.firecrawl.dev/"
+      },
+      {
+        "type": "link",
+        "addDate": 1715616564213,
+        "title": "AIchatOS",
+        "icon": "https://logo.clearbit.com/chat9.yqcloud.top",
+        "url": "https://chat9.yqcloud.top/#/chat/1715616450004"
+      },
+      {
+        "type": "link",
+        "addDate": 1715616566269,
+        "title": "AIchatOS",
+        "icon": "https://logo.clearbit.com/chat18.aichatos8.xyz",
+        "url": "https://chat18.aichatos8.xyz/#/chat/1715616525660"
+      },
+      {
+        "type": "link",
+        "addDate": 1716308179962,
+        "title": "添加模型报错 - MaxKB - 社区论坛 - FIT2CLOUD 飞致云",
+        "icon": "https://logo.clearbit.com/bbs.fit2cloud.com",
+        "url": "https://bbs.fit2cloud.com/t/topic/4317"
+      },
+      {
+        "type": "link",
+        "addDate": 1716389921215,
+        "title": "ragflow/README_zh.md at main · infiniflow/ragflow",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/infiniflow/ragflow/blob/main/README_zh.md"
+      },
+      {
+        "type": "link",
+        "addDate": 1716390762869,
+        "title": "X",
+        "icon": "https://logo.clearbit.com/x.com",
+        "url": "https://x.com/aigclink?mx=2"
+      },
+      {
+        "type": "link",
+        "addDate": 1716617815406,
+        "title": "Cover page",
+        "icon": "https://logo.clearbit.com/docsify.js.org",
+        "url": "https://docsify.js.org/#/configuration"
+      },
+      {
+        "type": "link",
+        "addDate": 1716618307292,
+        "title": "Page - Untitled",
+        "icon": "https://logo.clearbit.com/app.gitbook.com",
+        "url": "https://app.gitbook.com/o/RUTB8jG2lKtcOMBieHRO/s/T34AnuBzy2kGi4W1dRLj/"
+      },
+      {
+        "type": "link",
+        "addDate": 1716646660978,
+        "title": "产品和交易_人民币外汇交易_外汇交易系统_中国货币网",
+        "icon": "https://logo.clearbit.com/iftp.chinamoney.com.cn",
+        "url": "https://iftp.chinamoney.com.cn/chinese/mgwhcphjy/"
+      },
+      {
+        "type": "link",
+        "addDate": 1716907179470,
+        "title": "lobe-chat/README.zh-CN.md at main · lobehub/lobe-chat",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/lobehub/lobe-chat/blob/main/README.zh-CN.md"
+      },
+      {
+        "type": "link",
+        "addDate": 1716908324416,
+        "title": "AiHubMix",
+        "icon": "https://logo.clearbit.com/aihubmix.com",
+        "url": "https://aihubmix.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1716908840455,
+        "title": "gpt-tokenizer playground",
+        "icon": "https://logo.clearbit.com/gpt-tokenizer.dev",
+        "url": "https://gpt-tokenizer.dev/"
+      },
+      {
+        "type": "link",
+        "addDate": 1716913542390,
+        "title": "自托管 |霍伊人工智能 --- Self-Host | Khoj AI",
+        "icon": "https://logo.clearbit.com/docs.khoj.dev",
+        "url": "https://docs.khoj.dev/get-started/setup"
+      },
+      {
+        "type": "link",
+        "addDate": 1716992984086,
+        "title": "PostgreSQL: Windows installers",
+        "icon": "https://logo.clearbit.com/www.postgresql.org",
+        "url": "https://www.postgresql.org/download/windows/"
+      },
+      {
+        "type": "link",
+        "addDate": 1717228645638,
+        "title": "Lightsail | Global",
+        "icon": "https://logo.clearbit.com/lightsail.aws.amazon.com",
+        "url": "https://lightsail.aws.amazon.com/ls/error/access-denied"
+      },
+      {
+        "type": "link",
+        "addDate": 1717240561008,
+        "title": "Getting Started - pip documentation v24.1.dev1",
+        "icon": "https://logo.clearbit.com/pip.pypa.io",
+        "url": "https://pip.pypa.io/en/latest/getting-started/"
+      },
+      {
+        "type": "link",
+        "addDate": 1717304105068,
+        "title": "PromtEngineer/localGPT：使用 GPT 模型在本地设备上与您的文档聊天。没有数据离开您的设备，并且 100% 私密。 --- PromtEngineer/localGPT: Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/PromtEngineer/localGPT"
+      },
+      {
+        "type": "link",
+        "addDate": 1717304187378,
+        "title": "Self-hosting DocsGPT on Amazon Lightsail - DocsGPT Documentation",
+        "icon": "https://logo.clearbit.com/docs.docsgpt.cloud",
+        "url": "https://docs.docsgpt.cloud/Deploying/Hosting-the-app"
+      },
+      {
+        "type": "link",
+        "addDate": 1717304192308,
+        "title": "Chat with Your Documents Locally: PrivateGPT | by Kegbokokim | Medium",
+        "icon": "https://logo.clearbit.com/medium.com",
+        "url": "https://medium.com/@Kegbokokim/chat-with-your-documents-locally-privategpt-f8088eeae7d4"
+      },
+      {
+        "type": "link",
+        "addDate": 1717333670003,
+        "title": "Visualizing Codebases",
+        "icon": "https://logo.clearbit.com/mango-dune-07a8b7110.1.azurestaticapps.net",
+        "url": "https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=paperjs%2Fpaper.js"
+      },
+      {
+        "type": "link",
+        "addDate": 1717511162182,
+        "title": "牛牛课堂-你想学的投资课程这里都有-富途牛牛",
+        "icon": "https://logo.clearbit.com/www.futunn.com",
+        "url": "https://www.futunn.com/learn/wiki?global_content=%7B%22promote_id%22%3A13766,%22sub_promote_id%22%3A14%7D"
+      },
+      {
+        "type": "link",
+        "addDate": 1720160102362,
+        "title": "Home - Omnivore",
+        "icon": "https://logo.clearbit.com/omnivore.app",
+        "url": "https://omnivore.app/home"
+      },
+      {
+        "type": "link",
+        "addDate": 1720357295321,
+        "title": "GitHub - xuchengsheng/spring-reading: 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/xuchengsheng/spring-reading"
+      }
+    ]
   }
 ]
